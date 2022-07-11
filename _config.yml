@@ -25,10 +25,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   the entire works of Shakespeare I must be able to come up with
   something pithy here right?
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-author:
-  name: Ken Disbrow
-  email: ken@disbrow.us
+url: "https://kendisbrow.com" # the base hostname & protocol for your site, e.g. http://example.com
+#author:
+#  name: Ken Disbrow
+#  email: ken@disbrow.us
 
 minima:
   social_links:
