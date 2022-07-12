@@ -35,7 +35,9 @@ minima:
     linkedin: kendisbrow
     twitter: kendisbrow
     github:  kendisbrow
-    
+   
+linkedin_username: kendisbrow
+twitter_username: kendisbrow 
 
 # Build settings
 theme: minima
