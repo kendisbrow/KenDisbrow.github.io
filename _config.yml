@@ -40,7 +40,8 @@ linkedin_username: kendisbrow
 twitter_username: kendisbrow 
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
