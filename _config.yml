@@ -35,6 +35,7 @@ minima:
     linkedin: kendisbrow
     twitter: kendisbrow
     github:  kendisbrow
+  skin: solarized-dark
    
 linkedin_username: kendisbrow
 twitter_username: kendisbrow 
@@ -45,7 +46,13 @@ remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+
+markdown: kramdown
   
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
 # look and feel
 
 show_excerpts: true
