@@ -23,5 +23,5 @@ This is a caption.
 	<img src="/assets/img/Picture_1.png" 
       alt="Image of A Screenshot">
       
-    <figcaption>A picture at sunset</figcaption>
+    <figcaption align=center>A picture at sunset</figcaption>
 </figure>
