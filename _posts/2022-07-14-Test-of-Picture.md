@@ -6,6 +6,7 @@ categories: personal
 ---
 
 ![Image of A Screenshot](/assets/img/Picture_1.png)
+<!-- 
 <p align=center>
 This is a caption.
 </p>
@@ -15,4 +16,12 @@ This is a caption.
      alt="Image of A Screenshot" 
     />
 </p>
+ -->
 
+<figure>
+
+	<img src="/assets/img/Picture_1.png" 
+      alt="Image of A Screenshot">
+      
+    <figcaption>A picture at sunset</figcaption>
+</figure>
